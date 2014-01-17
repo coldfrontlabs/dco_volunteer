@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the DOC Volunteers feature.
+ */
+
+include_once 'doc_volunteers.features.inc';
